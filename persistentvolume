@@ -9,7 +9,7 @@ spec:
    - ReadWriteOnce
   persistentVolumeReclaimPolicy: Retain
   hostPath:
-  path: /mnt/mysql
+  path: /var/lib/mysql
   
    
     
